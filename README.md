@@ -3,7 +3,10 @@ This repository contains the research paper and code for "Cyber Threat Detection
 # Research Paper
 The paper presents an Intrusion Detection System using CatBoost that achieves:
 
-98.6% accuracy in binary classification
-Real-time performance with fast inference
-Interpretable results using SHAP analysis
-Superior performance over traditional ML models
+1.98.6% accuracy in binary classification
+
+2.Real-time performance with fast inference
+
+3.Interpretable results using SHAP analysis
+
+4.Superior performance over traditional ML models
